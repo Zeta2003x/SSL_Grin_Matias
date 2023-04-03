@@ -1,0 +1,100 @@
+int i1;
+char i1;
+float f1;
+double d1;
+char c1;
+char *s1;
+
+int a[2];
+int b[5] = {1,2,3};
+
+switch(a){}
+
+
+if(i < 3, i++){}
+
+if(i = 0; i < 3, i++) {
+	$
+}
+
+$
+while(2) {
+
+}
+
+do {} while (1);
+
+switch(i1) {
+	case 1:
+	break;
+
+	default:
+	break;
+}
+
+
+
+
+int jijiji;
+
+int funcInt() {
+	int i2;
+	return 1;
+}
+int funcNoParam() {
+	int i2;
+	return 1;
+}
+
+int funcChar0();
+
+
+char funcChar(char c2) {
+	double d2;
+
+	return c2;
+}
+
+void funcPipo(){}
+
+int funcVoid(char c3,int intBart,float f33[][]) {
+	intBart = f11[] < c3;
+	
+}
+void funcVoid23(char c3,int intBart,float pepeeee) {
+	intBart = f11[] < c3;
+	
+}
+
+1 + 3.3 ;
+
+2 + 'c' ;
+
+(3.3) + 'c' ;
+
+funcChar0() + 3;
+
+funcPipo() + 3;
+
+3 - 4;
+5* 66;
+7/2;
+44 / 9.1;
+
+char aaaaa(char c2) {
+	double d2;
+
+	return c2;
+}
+
+
+int funcChar();
+pruebaArr[] = {4,5,6};
+a[2] = {1,2,3};
+
+aaaaa('d');
+
+
+
+void funcPrueba();
+funcVoid23();
